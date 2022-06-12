@@ -1,0 +1,19 @@
+#solicitacao {
+    margin-bottom: 25px;
+}
+
+#timer {
+    margin-left: 675px; 
+    margin-top: 25px; 
+    font-size: 25px;
+}
+
+#botao {
+    max-width: 60%; 
+    margin-top: 10px; 
+}
+
+#livro {
+    font-size: 40px; 
+    margin-right: 15px;
+}
