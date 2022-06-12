@@ -10,11 +10,11 @@ nenhum campo desse formulário, sendo possível apenas enviar a avaliação.
 
 ● Uma tabela. <br>
 ● Verificação dos campos obrigatórios. <br>
-● Validação do campo ano de publicação.
-● Evento de adição no botão "Solicitar livro" (Adição na tabela).
-● Uso do Framework Bootstrap.
-● Projeto organizado.
-● Um dropdown menu para a escolha do tipo de vínculo do solicitante do livro.
-● Remoção do livro com duplo clique na linha do livro.
-● Contagem regressiva.
-● Bloqueio do formulário após à conclusão da contagem regressiva.
+● Validação do campo ano de publicação. <br>
+● Evento de adição no botão "Solicitar livro" (Adição na tabela). <br>
+● Uso do Framework Bootstrap. <br>
+● Projeto organizado. <br>
+● Um dropdown menu para a escolha do tipo de vínculo do solicitante do livro. <br>
+● Remoção do livro com duplo clique na linha do livro. <br>
+● Contagem regressiva. <br>
+● Bloqueio do formulário após à conclusão da contagem regressiva. <br>
