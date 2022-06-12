@@ -8,8 +8,8 @@ nenhum campo desse formulário, sendo possível apenas enviar a avaliação.
 
 # O que tem nesse formulário.
 
-● Uma tabela.
-● Verificação dos campos obrigatórios.
+● Uma tabela. <br>
+● Verificação dos campos obrigatórios. <br>
 ● Validação do campo ano de publicação.
 ● Evento de adição no botão "Solicitar livro" (Adição na tabela).
 ● Uso do Framework Bootstrap.
